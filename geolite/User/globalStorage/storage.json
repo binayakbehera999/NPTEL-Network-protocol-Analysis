@@ -1,0 +1,25 @@
+{
+    "telemetry.machineId": "b975153b806d8494d06acdff4870d7f5d9f80e7a37f773ffee5ea25fa5a47727",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1676297214716"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/binayak/Documents/System_Lab/assignment-2/geolite/Backups/1676297214716",
+            "uiState": {
+                "mode": 1,
+                "x": 448,
+                "y": 186,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
+}
